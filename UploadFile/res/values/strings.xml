@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UploadFile</string>
+    <string name="hello_world">Hello world!</string>
+	   <string name="save">保存</string>
+    <string name="saving">保存中...</string>
+       <string name="images">%d images</string>
+    <string name="error">发生错误</string>
+     <string name="external_not_available">External storage not available</string>
+</resources>
